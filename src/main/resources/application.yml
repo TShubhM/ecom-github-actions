@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: ecommerce
+      host: springboot-mongo
+      port: 27017
